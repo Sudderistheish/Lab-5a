@@ -8,11 +8,13 @@ Write a function called sum() that takes in two numbers as arguments and then re
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSum() function below and check the console to see if the test passes.*/
 
 // Write your code here
-function sum(a, b) { //eslint-disable-line
+let sum(a,b){ //eslint-disable-line
     let c;
     c=10
+    let b;
     b=5
-return c+b
+ let string = 'The sum of 10 and 5 is 15 s{a} s{b};
+ return [sum, string];
 }
 
 // Here is the test for sum(); uncomment it to run it
@@ -29,7 +31,11 @@ Write a function called multiply() that takes in two numbers as arguments and re
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiply() function and see if the test passes.*/
 
 // Write your code here
-function multiply(7, 9)[0]=== 63 && multiply (7,9)[1] === 'The product of 63'{ //eslint-disable-line
+function multiply(a, b)[0]=== 63 && multiply (a,b)[1] === 'The product of 63'{ //eslint-disable-line
+    let sumAndMultiply a;
+    a=9
+    b=7
+    Return (a)(b)    
     
 } 
 
@@ -51,12 +57,15 @@ Test this function by hand in the console to get it working, and when you think 
 
 // Write your code here
 function sumAndMultiply(a, b, c) { //eslint-disable-line
+    let a=35
+    let b=65
+    let c=3
 
 }
 
 // Here is the test for sumAndMultiply(); uncomment it to run it
 // testSumAndMultiply(4,7,5);
-
+ 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
 
 /////////////////////////////////////
